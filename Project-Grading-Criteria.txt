@@ -1,0 +1,11 @@
+Some students asked about the grading criteria for project. Most of the following was mentioned in the project guideline on Coursera. We will not release the detailed rubric, but here's a short summary again of what we will be looking at.
+
+The Draft will be reviewed by the following dimensions (you could use these as sections)
+
+Abstract
+Introduction
+Method (clear, reasonable, convincing)
+Result (where performance is no more important than analysis. For Draft, you could have incomplete results.)
+Conclusion (of progress so far)
+Reference (sufficient & correct)
+Overall Writing
